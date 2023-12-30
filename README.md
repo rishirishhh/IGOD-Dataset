@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/736608146.svg)](https://zenodo.org/doi/10.5281/zenodo.10445632)
+
 # IGOD Website Scraper
 
 ## Overview
@@ -35,5 +37,3 @@ The provided Python script utilizes Selenium, a web automation tool, to scrape d
 Ensure responsible and ethical use of web scraping practices. Be aware of and comply with the terms of service of the website being scraped. Adjustments to the script may be needed if the structure of the target website changes.
 
 Feel free to modify and adapt the script according to your specific needs or use it as a starting point for web scraping tasks related to IGOD data.
-
-
